@@ -28,7 +28,8 @@ author:
 # Theme configuration - using remote_theme for latest version
 remote_theme: jekyll/minima
 minima:
-    skin: dark
+    # skin: dark
+    skin: classic
     date_format: '%b %-d, %Y'
 
 # Build settings

@@ -1,22 +1,20 @@
 ---
 layout: home
-title: Gustavo Costa
+title: 'Gustavo Costa'
 subtitle: ''
 ---
 
-I'm **Gustavo Costa**, an interdisciplinary researcher in data science and AI ethics, transitioning from a background in psychotherapy and philosophy of science.
+I am an interdisciplinary researcher in data science and AI ethics, transitioning from a background in psychotherapy and philosophy of science.
 
 I study epistemological and sociotechnical dimensions of machine learning, currently focusing on the emerging phenomenon of **AI slop**, which ties into misinformation, academic integrity, and technical responsible NLP.
+
+I'm currently pursuing a **Master of Arts and Sciences at the London Interdisciplinary School** (2024-2025).
 
 [Download resume](/assets/pdfs/cv_gustavo_costa.pdf)
 
 ---
 
-## Current Work
-
-I'm currently pursuing a **Master of Arts and Sciences at the London Interdisciplinary School** (2024-2025).
-
-### Featured Projects
+## Featured Projects
 
 **What is AI slop?** _2025_
 
@@ -44,16 +42,30 @@ Tech: streamlit, RAG, sqlite.
 
 ---
 
-## Languages
+## Education
 
--   🇧🇷 **Portuguese** (native)
--   🇬🇧 **English** (fluent)
--   🇪🇸 **Spanish** (intermediate)
+MASc in Interdisciplinary Problems and Methods  
+London Interdisciplinary School  
+2024-2025
+
+Specialist in Lacanian Psychoanalysis  
+Faculdade Inspirar  
+2019-2022
+
+Bachelor in Psychology  
+University of Brasilia  
+2014-2019
+
+---
 
 ## Contact Information
 
-📍 **Location:** London, UK / Brasilia, Brazil  
-📧 **Email:** gustavo@arcos.org.br
+📍 **Location:** London, UK / Brasilia, Brazil
+
+-   [GitHub](https://github.com/noah-art3mis)
+-   [LinkedIn](https://linkedin.com/in/gustavoarcos)
+-   [BlueSky](https://bsky.app/profile/simulacro.bsky.social)
+-   [Instagram](https://instagram.com/simulacro.psi)
 
 ---
 
