@@ -1,72 +1,37 @@
----
-layout: home
-title: 'Gustavo Costa'
-subtitle: ''
----
+![](assets/images/fotor_2023-5-21_15_37_35.png){:style="max-width: 125px; width: 100%; display: block; margin: 0 auto"}
 
-I am an interdisciplinary researcher in data science and AI ethics, transitioning from a background in psychotherapy and philosophy of science.
+Interdisciplinary researcher in natural language processing and AI ethics, with a background in psychotherapy and philosophy of science. Currently pursuing a **Master of Arts and Sciences** at the London Interdisciplinary School (2024-2025).
 
-I study epistemological and sociotechnical dimensions of machine learning, currently focusing on the emerging phenomenon of **AI slop**, which ties into misinformation, academic integrity, and technical responsible NLP.
-
-I'm currently pursuing a **Master of Arts and Sciences at the London Interdisciplinary School** (2024-2025).
-
-[Download resume](/assets/pdfs/cv_gustavo_costa.pdf)
-
----
+I study epistemological and sociotechnical dimensions of machine learning, currently focusing on the emerging phenomenon of **AI slop**, which is related to fields such as misinformation and academic integrity. [Download my resume here](/assets/pdfs/cv_gustavo_costa.pdf).
 
 ## Featured Projects
 
-**What is AI slop?** _2025_
+**What is AI slop?**
 
-Research paper on what AI slop is - using thematic analysis, topic modelling and statistics on quantitative linguistic features. Outlines the types, themes, metaphors, and qualities of slop. Also finds that slop news is less varied and more positive than human-written high-quality news.
+Master's dissertation ([abstract](/assets/pdfs/capstone_abstract.pdf)). Research that investigates AI slop using thematic analysis, topic modelling and statistical linguistic features. Outlines the types, themes, metaphors, and qualities of slop. Also finds that slop news is less varied and more positive than human-written high-quality news. A version of it is published as a [series of blog posts](#).
 
-**[Intersect](https://github.com/noah-art3mis/intersect?ref=simulacro.co.uk)** _2025_
+**simulacro.co.uk**
 
-Job board that uses NLP to find more relevant roles.  
-Tech: streamlit, semantic search, UMAP, HDSCAN, reranking.
+Essays on data science, AI ethics and philosophy of science. Highlight: [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
 
-**[Prophetic Strategies](https://prophetic.streamlit.app/?ref=simulacro.co.uk)** _2024_
+**Intersect**
 
-Data/art project about oracular philosophy and AI.  
-Tech: streamlit, RAG, sqlite.
+Job board that uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Published as a [streamlit app](https://github.com/noah-art3mis/intersect).
 
----
+**Prophetic Strategies**
 
-## Research Areas
-
--   AI Ethics
--   Natural Language Processing
--   Data Science
--   Philosophy of Science
--   Psychoanalysis
-
----
+Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Published as a [streamlit app](https://prophetic.streamlit.app/).
 
 ## Education
 
-MASc in Interdisciplinary Problems and Methods  
+**MASc in Interdisciplinary Problems and Methods**  
 London Interdisciplinary School  
-2024-2025
+_2024-2025_
 
-Specialist in Lacanian Psychoanalysis  
+**Specialist in Lacanian Psychoanalysis**  
 Faculdade Inspirar  
-2019-2022
+_2019-2022_
 
-Bachelor in Psychology  
+**Bachelor in Psychology**  
 University of Brasilia  
-2014-2019
-
----
-
-## Contact Information
-
-📍 **Location:** London, UK / Brasilia, Brazil
-
--   [GitHub](https://github.com/noah-art3mis)
--   [LinkedIn](https://linkedin.com/in/gustavoarcos)
--   [BlueSky](https://bsky.app/profile/simulacro.bsky.social)
--   [Instagram](https://instagram.com/simulacro.psi)
-
----
-
-## Posts
+_2014-2019_
