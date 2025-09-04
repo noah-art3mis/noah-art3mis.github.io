@@ -1,6 +1,6 @@
 ![](assets/images/fotor_2023-5-21_15_37_35.png){:style="max-width: 125px; width: 100%; display: block; margin: 0 auto"}
 
-Interdisciplinary researcher in natural language processing and AI ethics, with a background in psychotherapy and philosophy of science. Currently pursuing a **Master of Arts and Sciences** at the London Interdisciplinary School (2024-2025).
+I am an interdisciplinary researcher in natural language processing and AI ethics, with a background in psychotherapy and philosophy of science. I am currently pursuing a **Master of Arts and Sciences** at the London Interdisciplinary School (2024-2025).
 
 I study epistemological and sociotechnical dimensions of machine learning, currently focusing on the emerging phenomenon of **AI slop**, which is related to fields such as misinformation and academic integrity. [Download my resume here](/assets/pdfs/cv_gustavo_costa.pdf).
 
