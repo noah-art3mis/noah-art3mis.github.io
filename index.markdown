@@ -8,7 +8,7 @@ I study epistemological and sociotechnical dimensions of machine learning, curre
 
 **What is AI slop?**
 
-Master's dissertation ([abstract](/assets/pdfs/capstone_abstract.pdf)). Research that investigates AI slop using thematic analysis, topic modelling and statistical linguistic features. Outlines the types, themes, metaphors, and qualities of slop. Also finds that slop news is less varied and more positive than human-written high-quality news. A version of it is published as a [series of blog posts](#).
+Master's dissertation ([abstract](/assets/pdfs/capstone_abstract.pdf)). Research that investigates AI slop using thematic analysis, topic modelling and statistical linguistic features. Outlines the types, themes, metaphors, and qualities of slop. Also finds that slop news is less varied and more positive than human-written high-quality news. A version of it is published as a [series of blog posts](https://simulacro.co.uk/introduction-to-slop-studies/).
 
 **simulacro.co.uk**
 
