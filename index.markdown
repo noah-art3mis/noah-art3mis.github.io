@@ -22,7 +22,7 @@ Job board that uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more rele
 
 Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Published as a [streamlit app](https://prophetic.streamlit.app/).
 
-Also see my [other projects](#/projects/).
+Also see my [other projects](/projects/).
 
 ## Education
 
