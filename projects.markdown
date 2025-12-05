@@ -6,26 +6,28 @@ permalink: /projects/
 
 ### Technical
 
--   [**Intersect**](https://github.com/noah-art3mis/intersect?ref=simulacro.co.uk) (_2025_) - NLP-powered job board.
--   [**Crucible**](https://github.com/noah-art3mis/crucible?ref=simulacro.co.uk) (_2024_) - Lightweight AI prompt evaluation package.
--   [**LexGPT**](https://lexgpt.com.br/?ref=simulacro.co.uk) (_2023 – 2024_) - AI services for lawyers. RAG app with flask backend and vanilla javascript frontend.
--   [**Automaton**](https://github.com/noah-art3mis/automaton?ref=simulacro.co.uk) (_2024_) - Automation tooling for @simulacro.psi.
+-   [**judex-mini**](https://github.com/noah-art3mis/judex-mini) (_2025_) - Scraper for Brazilian Supreme Court case information. Python library.
+-   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in Distrito Federal (in Portuguese). Jupyter notebook.
+-   [**Intersect**](https://github.com/noah-art3mis/intersect) (_2025_) - NLP-powered job board. Uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Streamlit app.
+<!-- -   [**Crucible**](https://github.com/noah-art3mis/crucible) (_2024_) - Lightweight AI prompt evaluation package. -->
+-   [**LexGPT**](https://lexgpt.com.br/) (_2023 – 2024_) - AI services for lawyers. RAG app with flask backend and vanilla javascript frontend. Deprecated.
+<!-- -   [**Automaton**](https://github.com/noah-art3mis/automaton) (_2024_) - Automation tooling for @simulacro.psi. -->
 
 ### Qualitative
 
--   [**simulacro.co.uk**](https://simulacro.co.uk?ref=simulacro.co.uk) (_2024 – present_) - Essays on data science, AI ethics and philosophy of science.
+-   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on data science, AI ethics and philosophy of science.
     -   [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
     -   [AI terminology for poets](https://simulacro.co.uk/ai-terminology-for-poets/)
--   [**Fora Freud**](https://gustavocosta.psc.br/?ref=simulacro.co.uk) (_2021 – 2024_) - Essays on philosophy and psychoanalysis (in Portuguese).
+-   [**Fora Freud**](https://gustavocosta.psc.br/) (_2021 – 2024_) - Essays on philosophy and psychoanalysis (in Portuguese).
     -   [Accepting the Real: Lacan and fascination with the ineffable](https://gustavocosta.psc.br/resignarse-ao-real-lacan-e-o-fascinio-pelo-inefavel/)
     -   [Nature will not decide for us: psychoanalysis without foundations](https://gustavocosta.psc.br/a-natureza-nao-decidira-por-nos-psicanalise-sem-fundamentos/)
--   [**@simulacro.psi**](https://www.instagram.com/simulacro.psi/?ref=simulacro.co.uk) (_2021 – 2024_) - Instagram page that posts a philosophy quote every day (1.5k followers).
+-   [**@simulacro.psi**](https://www.instagram.com/simulacro.psi/) (_2021 – 2024_) - Instagram page that posts a philosophy quote every day (1.5k followers).
 
 ### Creative
 
--   [**Prophetic Strategies**](https://prophetic.streamlit.app/?ref=simulacro.co.uk) (_2024_) - Data/art project about oracular philosophy and AI.
--   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth?ref=simulacro.co.uk) (_2023_) - Art-house video game.
--   [**WEAV**](https://github.com/noah-art3mis/weav?ref=simulacro.co.uk) (_2021_) - Elementary cellular automata visualiser.
+-   [**Prophetic Strategies**](https://prophetic.streamlit.app/) (_2024_) - Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Streamlit app.
+-   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot.
+-   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
 ### Publications & Talks
 
@@ -46,8 +48,8 @@ _Stereotype detection in large language models using sparse autoencoders_
 
 More details in the [GitHub repository](https://github.com/noah-art3mis/portfolio-lis/)
 
--   [**Slopscooper**](https://www.tumblr.com/slopscooper):
-    Archive of AI slop and articles about the topic.
+-   [**Slopstopper**]() (WIP): Python library which detects and classifies AI slop.
+-   [**Slopscooper**](https://www.tumblr.com/slopscooper): Archive of AI slop and articles about the topic.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
     Neuroarchitecture paper investigating "universal attraction to vitality" and aversion to brutalism using fake EEG and VR data.
 -   [**Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**](https://github.com/noah-art3mis/portfolio-lis/blob/main/integration.pdf):

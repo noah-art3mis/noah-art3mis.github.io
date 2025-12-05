@@ -1,8 +1,6 @@
 ![](assets/images/fotor_2023-5-21_15_37_35.png){:style="max-width: 125px; width: 100%; display: block; margin: 0 auto"}
 
-I am an interdisciplinary researcher in natural language processing and AI ethics, with a background in psychotherapy and philosophy of science. I am currently pursuing a **Master of Arts and Sciences** at the London Interdisciplinary School (2024-2025).
-
-I study epistemological and sociotechnical dimensions of machine learning, currently focusing on the emerging phenomenon of **AI slop**, which is related to fields such as misinformation and academic integrity. [Download my resume here](/assets/pdfs/cv_gustavo_costa.pdf).
+I am an interdisciplinary researcher in data science (NLP/ML/AI), with a background in psychotherapy and philosophy of science. I develop technical solutions that address epistemological and sociotechnical problems. For my Master of Arts and Sciences at the London Interdisciplinary School (2024–2025), I wrote a dissertation on **AI slop**, which relates to fields such as misinformation and academic integrity. [Download my CV here](/assets/pdfs/cv_gustavo_costa.pdf).
 
 ## Featured Projects
 
@@ -22,7 +20,7 @@ Job board that uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more rele
 
 Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Published as a [streamlit app](https://prophetic.streamlit.app/).
 
-Also see my [other projects](/projects/).
+Check out my [other projects](/projects/).
 
 ## Education
 
