@@ -6,8 +6,9 @@ permalink: /projects/
 
 ### Technical
 
--   [**judex-mini**](https://github.com/noah-art3mis/judex-mini) (_2025_) - Scraper for Brazilian Supreme Court case information. Python library.
--   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in Distrito Federal (in Portuguese). Jupyter notebook.
+-   [**Veritrace**](https://github.com/noah-art3mis/veritrace) (_2026_) - Observable AI fact-checker based on latest scholarship. Decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph. Built on [Show Me the Work](https://doi.org/10.1145/3706598.3713277) and [HerO 2](https://github.com/ssu-humane/HerO).
+-   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
+-   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in DF, Brazil (in Portuguese). Jupyter notebook.
 -   [**Intersect**](https://github.com/noah-art3mis/intersect) (_2025_) - NLP-powered job board. Uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Streamlit app.
 <!-- -   [**Crucible**](https://github.com/noah-art3mis/crucible) (_2024_) - Lightweight AI prompt evaluation package. -->
 -   [**LexGPT**](https://lexgpt.com.br/) (_2023 – 2024_) - AI services for lawyers. RAG app with flask backend and vanilla javascript frontend. Deprecated.
@@ -49,7 +50,7 @@ _Stereotype detection in large language models using sparse autoencoders_
 More details in the [GitHub repository](https://github.com/noah-art3mis/portfolio-lis/)
 
 -   [**Slopstopper**]() (WIP): Python library which detects and classifies AI slop.
--   [**Slopscooper**](https://www.tumblr.com/slopscooper): Archive of AI slop and articles about the topic.
+-   [**Slop News**](https://t.me/slopnew): Telegram channel aggregating news about AI slop.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
     Neuroarchitecture paper investigating "universal attraction to vitality" and aversion to brutalism using fake EEG and VR data.
 -   [**Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**](https://github.com/noah-art3mis/portfolio-lis/blob/main/integration.pdf):
