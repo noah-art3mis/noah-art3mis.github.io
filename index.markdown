@@ -8,6 +8,10 @@ I am a computational social scientist (NLP/ML/AI), with a background in psychoth
 
 Master's dissertation ([full paper](/assets/pdfs/ai_slop_paper.pdf)). Research that investigates AI slop using thematic analysis, topic modelling and statistical linguistic features. Outlines the types, themes, metaphors, and qualities of slop. Also finds that slop news is less varied and more positive than human-written high-quality news. A version of it is published as a [series of blog posts](https://simulacro.co.uk/introduction-to-slop-studies/).
 
+**Veritrace**
+
+[Observable AI fact-checker](https://github.com/noah-art3mis/veritrace) that decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph.
+
 **simulacro.co.uk**
 
 Essays on data science, AI ethics and philosophy of science. Highlight: [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)

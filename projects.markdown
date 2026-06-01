@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Technical
 
--   [**Veritrace**](https://github.com/noah-art3mis/veritrace) (_2026_) - Observable AI fact-checker based on latest scholarship. Decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph. Built on [Show Me the Work](https://doi.org/10.1145/3706598.3713277) and [HerO 2](https://github.com/ssu-humane/HerO).
+-   [**Veritrace**](https://github.com/noah-art3mis/veritrace) (_2026_) - Observable AI fact-checker based on latest scholarship. Decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph. Inspired by [Show Me the Work](https://doi.org/10.1145/3706598.3713277) and [HerO 2](https://github.com/ssu-humane/HerO).
 -   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
 -   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in DF, Brazil (in Portuguese). Jupyter notebook.
 -   [**Intersect**](https://github.com/noah-art3mis/intersect) (_2025_) - NLP-powered job board. Uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Streamlit app.
