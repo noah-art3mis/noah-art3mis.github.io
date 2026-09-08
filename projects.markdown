@@ -1,10 +1,11 @@
 ---
 layout: page
 title: 'All Projects'
+description: Research, software, writing, and creative work across AI and the social sciences.
 permalink: /projects/
 ---
 
-### Technical
+## Technical
 
 -   [**Veritrace**](https://github.com/noah-art3mis/veritrace) (_2026_) - Observable AI fact-checker based on latest scholarship. Decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph. Inspired by [Show Me the Work](https://doi.org/10.1145/3706598.3713277) and [HerO 2](https://github.com/ssu-humane/HerO).
 -   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
@@ -14,7 +15,7 @@ permalink: /projects/
 -   [**LexGPT**](https://lexgpt.com.br/) (_2023 – 2024_) - AI services for lawyers. RAG app with flask backend and vanilla javascript frontend. Deprecated.
 <!-- -   [**Automaton**](https://github.com/noah-art3mis/automaton) (_2024_) - Automation tooling for @simulacro.psi. -->
 
-### Qualitative
+## Qualitative
 
 -   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on data science, AI ethics and philosophy of science.
     -   [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
@@ -24,13 +25,13 @@ permalink: /projects/
     -   [Nature will not decide for us: psychoanalysis without foundations](https://gustavocosta.psc.br/a-natureza-nao-decidira-por-nos-psicanalise-sem-fundamentos/)
 -   [**@simulacro.psi**](https://www.instagram.com/simulacro.psi/) (_2021 – 2024_) - Instagram page that posts a philosophy quote every day (1.5k followers).
 
-### Creative
+## Creative
 
 -   [**Prophetic Strategies**](https://prophetic.streamlit.app/) (_2024_) - Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Streamlit app.
 -   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot.
 -   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
-### Publications & Talks
+## Publications & Talks
 
 **The midnight sun: Popper and rationality without foundations**  
 _Psychoanalysis and Science Research Group at APOLa SP_  
@@ -40,16 +41,16 @@ Two lectures on philosophy of science
 _Thinking Out Loud project at the London Interdisciplinary School_  
 Lecture on critical theory and philosophy of nature
 
-### Awards
+## Awards
 
 **Hackathon Winner:** AI safety hackathon (Holistic AI & UCL AI Society)  
 _Stereotype detection in large language models using sparse autoencoders_
 
-### Other
+## Other
 
 More details in the [GitHub repository](https://github.com/noah-art3mis/portfolio-lis/)
 
--   [**Slopstopper**]() (WIP): Python library which detects and classifies AI slop.
+-   [**Slopstopper**](https://github.com/noah-art3mis/slopstopper) (WIP): Python library which detects and classifies AI slop.
 -   [**Slop News**](https://t.me/slopnew): Telegram channel aggregating news about AI slop.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
     Neuroarchitecture paper investigating "universal attraction to vitality" and aversion to brutalism using fake EEG and VR data.

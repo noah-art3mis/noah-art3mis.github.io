@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="icon" type="image/png" href="{{ '/assets/images/fotor_2023-5-21_15_37_35.png' | relative_url }}">
+    <link rel="preload" href="{{ '/assets/fonts/spline-sans-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+    {% if page.layout == 'home' %}<link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">{% endif %}
+    {% feed_meta %}
+  </head>
+  <body>
+    <!-- A personal research portfolio: open typography, original Simulacro artwork,
+         and the actual dissertation. Project evidence precedes career history.
+         Native links and document flow keep the work accessible without JavaScript. -->
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header shell">
+      <a class="site-name" href="{{ '/' | relative_url }}">Gustavo Costa</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} aria-current="page"{% endif %}>All Projects</a>
+        <a class="nav-about" href="{{ '/#about' | relative_url }}">About</a>
+        <a class="nav-cv" href="{{ '/assets/pdfs/cv_gustavo_costa.pdf' | relative_url }}">CV {% include arrow-up-right.html %}</a>
+      </nav>
+    </header>
+    <main id="main-content" class="shell" tabindex="-1">{{ content }}</main>
+    <footer class="site-footer shell">
+      <div class="contact-row">
+        <div>
+          <h2>Get in touch</h2>
+          <p>For research collaborations, technical projects, or a conversation about the work.</p>
+        </div>
+        <a class="contact-link text-link" href="mailto:{{ site.email }}">{{ site.email }} {% include arrow-up-right.html %}</a>
+      </div>
+      <div class="footer-meta">
+        <p>Gustavo Costa</p>
+        <nav class="social-links" aria-label="Social profiles">
+          <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+          <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
+          <a href="https://www.instagram.com/{{ site.instagram_username }}">Instagram</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

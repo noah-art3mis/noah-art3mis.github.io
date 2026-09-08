@@ -8,7 +8,9 @@
 title: 'Gustavo Costa'
 email: 'gustavo.costa@lis.ac.uk'
 baseurl: ''
-url: 'https://noah-art3mis.github.io'
+url: 'https://simulacro.cv'
+repository: noah-art3mis/noah-art3mis.github.io
+description: 'Computational social science, AI research, and software by Gustavo Costa.'
 
 # Social media links (these appear in the footer)
 github_username: 'noah-art3mis'
@@ -31,6 +33,15 @@ theme: minima
 plugins:
     - jekyll-feed
     - jekyll-seo-tag
+
+exclude:
+    - vendor
+    - test
+    - docs
+    - README.md
+    - DESIGN.md
+    - PRODUCT.md
+    - _config.yml.backup
 
 # Collections
 collections:

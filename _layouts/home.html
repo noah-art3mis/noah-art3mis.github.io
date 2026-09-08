@@ -1,0 +1,75 @@
+---
+layout: default
+---
+<section class="intro" aria-labelledby="intro-title">
+  <div class="intro-copy">
+    <h1 id="intro-title">Computational social scientist.</h1>
+    <p>I study how AI changes what we know, and build tools for social science research.</p>
+    <div class="intro-actions">
+      <a class="primary-link" href="#featured-projects">Featured projects {% include arrow-right.html %}</a>
+      <a class="text-link" href="{{ '/assets/pdfs/cv_gustavo_costa.pdf' | relative_url }}">Download CV {% include arrow-up-right.html %}</a>
+    </div>
+  </div>
+  <figure class="intro-art">
+    <img src="{{ '/assets/images/fotor_2023-5-21_15_37_35.png' | relative_url }}" width="950" height="950" alt="Simulacro artwork: black and silver forms twisting across a white circle" fetchpriority="high">
+  </figure>
+</section>
+<p class="current-work">I lead LLM systems and research infrastructure at CAPTA, building AI tools with social scientists. My background is in psychotherapy and philosophy of science.</p>
+
+<section id="featured-projects" aria-labelledby="projects-title">
+  <div class="section-heading">
+    <h2 id="projects-title">Featured projects</h2>
+    <a class="text-link" href="{{ '/projects/' | relative_url }}">All Projects {% include arrow-right.html %}</a>
+  </div>
+  <article class="research-feature">
+    <div class="research-copy">
+      <h3>What is AI slop?</h3>
+      <p class="project-meta">Master’s dissertation, London Interdisciplinary School, 2025</p>
+      <p>An interdisciplinary study of low-quality AI content: how people describe it, the forms it takes, and what distinguishes it from human writing.</p>
+      <p>Combining thematic analysis, topic modelling, and statistical linguistics, I found slop news to be less varied and more positive than human-written, high-quality news.</p>
+      <div class="research-links">
+        <a class="text-link" href="{{ '/assets/pdfs/ai_slop_paper.pdf' | relative_url }}">Read the paper {% include arrow-up-right.html %}</a>
+        <a class="text-link" href="https://simulacro.co.uk/introduction-to-slop-studies/">Read the essays {% include arrow-up-right.html %}</a>
+      </div>
+    </div>
+    <a class="paper-preview" href="{{ '/assets/pdfs/ai_slop_paper.pdf' | relative_url }}" aria-label="Read What is AI slop? An Interdisciplinary Approach (PDF)">
+      <img src="{{ '/assets/images/ai-slop-paper.webp' | relative_url }}" alt="First page of What is AI slop? An Interdisciplinary Approach, by Gustavo Araujo Costa" width="692" height="900" loading="lazy">
+    </a>
+  </article>
+  <div class="project-list">
+    <article class="project-row">
+      <h3>Veritrace</h3>
+      <p>An observable AI fact-checker. It breaks a claim into sub-claims, retrieves primary sources, and makes the reasoning explorable as an evidence graph.</p>
+      <a class="text-link" href="https://github.com/noah-art3mis/veritrace" aria-label="View Veritrace code">View code {% include arrow-up-right.html %}</a>
+    </article>
+    <article class="project-row">
+      <h3>Judex</h3>
+      <p>A Python scraper and data pipeline for Brazilian Supreme Court case information.</p>
+      <a class="text-link" href="https://github.com/noah-art3mis/judex-mini" aria-label="View Judex code">View code {% include arrow-up-right.html %}</a>
+    </article>
+    <article class="project-row">
+      <h3>Prophetic Strategies</h3>
+      <p>A data/art project exploring oracular philosophy and AI through retrieval-augmented generation and fine-tuned language models.</p>
+      <a class="text-link" href="https://prophetic.streamlit.app/">Open project {% include arrow-up-right.html %}</a>
+    </article>
+  </div>
+</section>
+
+<section class="writing" aria-labelledby="writing-title">
+  <div class="writing-intro">
+    <h2 id="writing-title">Writing</h2>
+    <p>Essays on data science, AI ethics, and philosophy of science at <a href="https://simulacro.co.uk/">simulacro.co.uk</a>.</p>
+  </div>
+  <ul class="essay-list">
+    <li>
+      <h3><a href="https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/">AI for humanists {% include arrow-up-right.html %}</a></h3>
+      <p>An introduction to artificial intelligence for readers in the humanities.</p>
+    </li>
+    <li>
+      <h3><a href="https://simulacro.co.uk/ai-terminology-for-poets/">AI terminology for poets {% include arrow-up-right.html %}</a></h3>
+      <p>A companion to the language we use to talk about AI.</p>
+    </li>
+  </ul>
+</section>
+
+{% include biography.html %}

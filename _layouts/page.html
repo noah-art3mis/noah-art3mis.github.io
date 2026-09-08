@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="document">
+  <header class="document-header">
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}<p>{{ page.description | escape }}</p>{% endif %}
+  </header>
+  {% if page.url == '/projects/' %}
+  <nav class="archive-nav" aria-label="Project categories">
+    <a href="#technical">Technical</a>
+    <a href="#qualitative">Qualitative</a>
+    <a href="#creative">Creative</a>
+    <a href="#publications--talks">Publications &amp; Talks</a>
+    <a href="#awards">Awards</a>
+    <a href="#other">Other</a>
+  </nav>
+  {% endif %}
+  <div class="document-body">{{ content }}</div>
+</article>
