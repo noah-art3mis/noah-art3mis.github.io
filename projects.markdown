@@ -33,11 +33,11 @@ permalink: /projects/
 
 ### Publications & Talks
 
-**The midnight sun: Popper and rationality without foundations**  
+**The midnight sun: Popper and rationality without foundations** (2024)  
 _Psychoanalysis and Science Research Group at APOLa SP_  
 Two lectures on philosophy of science
 
-**Xenofeminism**  
+**Xenofeminism** (2025)  
 _Thinking Out Loud project at the London Interdisciplinary School_  
 Lecture on critical theory and philosophy of nature
 
