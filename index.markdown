@@ -28,7 +28,7 @@ Modular fact-checking toolkit, in development, covering claim detection, claim s
 **simulacro.co.uk**
 {:.project-title}
 
-Essays on data science, AI ethics and philosophy of science. Highlight: [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
+Essays on knowledge, meaning, and technology. Highlight: [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
 
 **Prophetic Strategies**
 {:.project-title}

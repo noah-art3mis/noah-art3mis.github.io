@@ -17,7 +17,7 @@ permalink: /projects/
 
 ### Qualitative
 
--   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on data science, AI ethics and philosophy of science.
+-   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on knowledge, meaning, and technology.
     -   [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
     -   [AI terminology for poets](https://simulacro.co.uk/ai-terminology-for-poets/)
 -   [**Fora Freud**](https://gustavocosta.psc.br/) (_2021 – 2024_) - Essays on philosophy and psychoanalysis (in Portuguese).
@@ -28,7 +28,7 @@ permalink: /projects/
 ### Creative
 
 -   [**Prophetic Strategies**](https://prophetic-strategies-web.onrender.com/) (_2024 – present_) – Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Interactive web app.
--   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot.
+-   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot. Selected for Indiepocalypse.
 -   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
 ### Publications & Talks
