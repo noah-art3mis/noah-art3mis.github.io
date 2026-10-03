@@ -28,7 +28,7 @@ Essays on data science, AI ethics and philosophy of science. Highlight: [AI for 
 
 **Prophetic Strategies**
 
-[Data/art project](https://prophetic-strategies-web.onrender.com/) about oracular philosophy and AI using RAG and fine-tuned LLMs. Explore the interactive oracle.
+[Data/art project](https://prophetic-strategies-web.onrender.com/) about oracular philosophy and AI using RAG and fine-tuned LLMs.
 
 Check out my [other projects](/projects/).
 
