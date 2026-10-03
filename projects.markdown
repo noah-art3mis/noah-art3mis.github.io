@@ -28,7 +28,7 @@ permalink: /projects/
 ### Creative
 
 -   [**Prophetic Strategies**](https://prophetic-strategies-web.onrender.com/) (_2024 – present_) – Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Interactive web app.
--   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot. Selected for Indiepocalypse.
+-   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot. Selected for [Indiepocalypse #44](https://pizzapranks.itch.io/indiepocalypse-44), an independent game anthology.
 -   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
 ### Publications & Talks
@@ -48,11 +48,9 @@ _Stereotype detection in large language models using sparse autoencoders_
 
 ### Other
 
-More details in the [GitHub repository](https://github.com/noah-art3mis/portfolio-lis/)
-
--   [**Slop News**](https://t.me/slopnew): Telegram archive of things I find relevant to AI slop.
+-   [**Slop News**](https://t.me/slopnew): Telegram channel of things I find relevant to AI slop.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
-    Neuroarchitecture paper investigating "universal attraction to vitality" and aversion to brutalism using fake EEG and VR data.
+    Fake research paper using fabricated EEG and VR data to investigate "universal attraction to vitality" and aversion to brutalism.
 -   [**Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**](https://github.com/noah-art3mis/portfolio-lis/blob/main/integration.pdf):
     Critical paper on integration studies.
 -   [**Is psychoanalysis a pseudoscience?**](https://simulacro.co.uk/is-psychoanalysis-a-pseudoscience/):
