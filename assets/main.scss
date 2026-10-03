@@ -23,3 +23,13 @@ a:focus-visible {
 .home p, .post-content p {
   text-wrap: pretty;
 }
+
+.favourite-books {
+  margin-top: 24px;
+  color: #666;
+  font-size: 0.875em;
+}
+
+.favourite-books a {
+  color: inherit;
+}

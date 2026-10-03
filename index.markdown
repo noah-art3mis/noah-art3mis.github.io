@@ -2,7 +2,7 @@
 
 I am a computational social scientist with a background in psychotherapy and philosophy of science. I build computational systems for interpreting complex information and evaluating evidence, with applications in fields such as social science, law, and journalism.
 
-My research interests centre on how AI changes the production, interpretation, and quality of information. I develop practical tools to help people navigate information overload, assess evidence, and make informed judgments.
+My research focuses on methods such as text classification to help people navigate information overload and make informed judgments grounded in evidence.
 
 I currently lead LLM systems and research infrastructure at **CAPTA**, building tools for social research in collaboration with social scientists.
 
@@ -68,15 +68,5 @@ Faculdade Inspirar
 University of Brasilia  
 <span class="cv-date">2014 – 2019</span>
 
-## Favourite books
-
-- [Text as Data](https://www.goodreads.com/book/show/57866242-text-as-data) – Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart
-- [Xenofeminism](https://www.goodreads.com/book/show/36749497-xenofeminism) – Helen Hester
-- [Domain-Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) – Eric Evans
-- [The Mushroom at the End of the World](https://www.goodreads.com/book/show/25510906-the-mushroom-at-the-end-of-the-world) – Anna Lowenhaupt Tsing
-- [Fundamentals of Data Visualization](https://www.goodreads.com/book/show/40014286-fundamentals-of-data-visualization) – Claus O. Wilke
-- [Maneiras de transformar mundos](https://www.goodreads.com/book/show/54826559-maneiras-de-transformar-mundos) – Vladimir Safatle
-- [Philosophy and the Mirror of Nature](https://www.goodreads.com/book/show/31947.Philosophy_and_the_Mirror_of_Nature) – Richard Rorty
-- [The Breath of the Sun](https://www.goodreads.com/book/show/40963731-the-breath-of-the-sun) – Isaac R. Fellman
-- [Annihilation](https://www.goodreads.com/book/show/17934530-annihilation) – Jeff VanderMeer
-- [Knowledge and Social Imagery](https://www.goodreads.com/book/show/687769.Knowledge_and_Social_Imagery) – David Bloor
+**Favourite books:** [Philosophy and the Mirror of Nature](https://www.goodreads.com/book/show/31947.Philosophy_and_the_Mirror_of_Nature) · [Knowledge and Social Imagery](https://www.goodreads.com/book/show/687769.Knowledge_and_Social_Imagery) · [The Open Society and Its Enemies](https://www.goodreads.com/book/show/240592.The_Open_Society_and_Its_Enemies) · [Text as Data](https://www.goodreads.com/book/show/57866242-text-as-data) · [Xenofeminism](https://www.goodreads.com/book/show/36749497-xenofeminism) · [Domain-Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) · [The Mushroom at the End of the World](https://www.goodreads.com/book/show/25510906-the-mushroom-at-the-end-of-the-world) · [Maneiras de transformar mundos](https://www.goodreads.com/book/show/54826559-maneiras-de-transformar-mundos) · [The Breath of the Sun](https://www.goodreads.com/book/show/40963731-the-breath-of-the-sun) · [Annihilation](https://www.goodreads.com/book/show/17934530-annihilation)
+{:.favourite-books}
