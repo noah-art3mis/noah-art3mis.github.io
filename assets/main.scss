@@ -1,0 +1,105 @@
+---
+---
+
+@import "minima";
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-Regular.ttf" | relative_url }}") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-Bold.ttf" | relative_url }}") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-Italic.ttf" | relative_url }}") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-BoldItalic.ttf" | relative_url }}") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+body {
+  font-family: "Lora", Georgia, serif;
+  line-height: 1.65;
+}
+
+
+.cv-date {
+  color: #666;
+  font-size: 0.875em;
+  font-style: normal;
+  font-variant-numeric: tabular-nums;
+}
+
+.home a, .post-content a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.home p, .post-content p {
+  text-wrap: pretty;
+}
+
+.favourite-books {
+  margin-top: 24px;
+  color: #666;
+  font-size: 0.875em;
+}
+
+.favourite-books a {
+  color: inherit;
+}
+
+.home h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+}
+
+.project-title {
+  margin-top: 1.75rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.0625em;
+}
+
+.cv-entry {
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.home h2 + .project-title,
+.home h2 + .cv-entry {
+  margin-top: 0;
+}
+
+.post-content h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+}
+
+.post-content > ul > li {
+  margin-bottom: 1rem;
+}

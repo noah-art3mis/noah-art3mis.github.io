@@ -6,17 +6,18 @@ permalink: /projects/
 
 ### Technical
 
--   [**Veritrace**](https://github.com/noah-art3mis/veritrace) (_2026_) - Observable AI fact-checker based on latest scholarship. Decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph. Inspired by [Show Me the Work](https://doi.org/10.1145/3706598.3713277) and [HerO 2](https://github.com/ssu-humane/HerO).
+-   **Glasshouse** (_2026 – present_) – Modular fact-checking toolkit, in development, covering claim detection, claim selection, verified claim retrieval, evidence retrieval, verdict prediction, and justification production. Each stage keeps an inspectable record of its inputs and outputs. Builds on [VeriTrace](https://github.com/noah-art3mis/veritrace), an observable AI fact-checking prototype developed during a 24-hour hackathon.
+-   [**LexGPT**](https://lexgpt.com.br/) (_2026 – present_) – Legal research workbench built on corpora I collect and curate from Brazilian courts and legislative sources. Supports complex legal questions through source-linked answers and inspectable evidence, alongside collaborative document editing and shared research projects.
+-   [**News Quality**](https://github.com/noah-art3mis/news-quality-labeler) – Bluesky labeler that annotates shared links with news-source quality ratings. Sourced from [Lin et al. (2023)](https://doi.org/10.1093/pnasnexus/pgad286).
 -   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
 -   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in DF, Brazil (in Portuguese). Jupyter notebook.
 -   [**Intersect**](https://github.com/noah-art3mis/intersect) (_2025_) - NLP-powered job board. Uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Streamlit app.
 <!-- -   [**Crucible**](https://github.com/noah-art3mis/crucible) (_2024_) - Lightweight AI prompt evaluation package. -->
--   [**LexGPT**](https://lexgpt.com.br/) (_2023 – 2024_) - AI services for lawyers. RAG app with flask backend and vanilla javascript frontend. Deprecated.
 <!-- -   [**Automaton**](https://github.com/noah-art3mis/automaton) (_2024_) - Automation tooling for @simulacro.psi. -->
 
 ### Qualitative
 
--   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on data science, AI ethics and philosophy of science.
+-   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on knowledge, meaning, and technology.
     -   [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
     -   [AI terminology for poets](https://simulacro.co.uk/ai-terminology-for-poets/)
 -   [**Fora Freud**](https://gustavocosta.psc.br/) (_2021 – 2024_) - Essays on philosophy and psychoanalysis (in Portuguese).
@@ -26,17 +27,17 @@ permalink: /projects/
 
 ### Creative
 
--   [**Prophetic Strategies**](https://prophetic.streamlit.app/) (_2024_) - Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Streamlit app.
--   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot.
+-   [**Prophetic Strategies**](https://prophetic-strategies-web.onrender.com/) (_2024 – present_) – Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Interactive web app.
+-   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot. Selected for [Indiepocalypse #44](https://pizzapranks.itch.io/indiepocalypse-44), an independent game anthology.
 -   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
 ### Publications & Talks
 
-**The midnight sun: Popper and rationality without foundations**  
+**The midnight sun: Popper and rationality without foundations** (2024)  
 _Psychoanalysis and Science Research Group at APOLa SP_  
 Two lectures on philosophy of science
 
-**Xenofeminism**  
+**Xenofeminism** (2025)  
 _Thinking Out Loud project at the London Interdisciplinary School_  
 Lecture on critical theory and philosophy of nature
 
@@ -47,20 +48,17 @@ _Stereotype detection in large language models using sparse autoencoders_
 
 ### Other
 
-More details in the [GitHub repository](https://github.com/noah-art3mis/portfolio-lis/)
-
--   [**Slopstopper**]() (WIP): Python library which detects and classifies AI slop.
--   [**Slop News**](https://t.me/slopnew): Telegram channel aggregating news about AI slop.
+-   [**Slop News**](https://t.me/slopnew): Telegram channel of things I find relevant to AI slop.
+-   [**The Official Tumblr Metaphysics Repository**](https://www.tumblr.com/noah-art3mis):
+    Archive of metaphysics shitposting.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
-    Neuroarchitecture paper investigating "universal attraction to vitality" and aversion to brutalism using fake EEG and VR data.
+    Fake research paper using fabricated EEG and VR data to investigate "universal attraction to vitality" and aversion to brutalism.
 -   [**Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**](https://github.com/noah-art3mis/portfolio-lis/blob/main/integration.pdf):
     Critical paper on integration studies.
 -   [**Is psychoanalysis a pseudoscience?**](https://simulacro.co.uk/is-psychoanalysis-a-pseudoscience/):
     Short essay on psychoanalysis and science.
 -   [**The Eros Engine**](https://www.figma.com/proto/CngNPoctG33cqbcFwNzzDs/DESIDERATA?node-id=83-273&p=f&t=dy8y9PikvJEPAJBp-1&scaling=scale-down&content-scaling=fixed&page-id=63%3A129&starting-point-node-id=83%3A273):
     Figma prototype of an adult website which imagines how recommendation systems and generative AI could serve user well-being instead of profit maximization.
--   [**The Official Tumblr Metaphysics Repository**](https://www.tumblr.com/noah-art3mis):
-    Archive of metaphysics shitposting.
 -   **Who deports more, Republicans or Democrats?**:
     Analysis of United States deportation data (pre-2025).
 -   **The Radiant Capital and The New New Capital**
