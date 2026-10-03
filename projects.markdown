@@ -49,6 +49,8 @@ _Stereotype detection in large language models using sparse autoencoders_
 ### Other
 
 -   [**Slop News**](https://t.me/slopnew): Telegram channel of things I find relevant to AI slop.
+-   [**The Official Tumblr Metaphysics Repository**](https://www.tumblr.com/noah-art3mis):
+    Archive of metaphysics shitposting.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
     Fake research paper using fabricated EEG and VR data to investigate "universal attraction to vitality" and aversion to brutalism.
 -   [**Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**](https://github.com/noah-art3mis/portfolio-lis/blob/main/integration.pdf):
@@ -57,8 +59,6 @@ _Stereotype detection in large language models using sparse autoencoders_
     Short essay on psychoanalysis and science.
 -   [**The Eros Engine**](https://www.figma.com/proto/CngNPoctG33cqbcFwNzzDs/DESIDERATA?node-id=83-273&p=f&t=dy8y9PikvJEPAJBp-1&scaling=scale-down&content-scaling=fixed&page-id=63%3A129&starting-point-node-id=83%3A273):
     Figma prototype of an adult website which imagines how recommendation systems and generative AI could serve user well-being instead of profit maximization.
--   [**The Official Tumblr Metaphysics Repository**](https://www.tumblr.com/noah-art3mis):
-    Archive of metaphysics shitposting.
 -   **Who deports more, Republicans or Democrats?**:
     Analysis of United States deportation data (pre-2025).
 -   **The Radiant Capital and The New New Capital**

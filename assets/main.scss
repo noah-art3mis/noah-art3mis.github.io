@@ -3,6 +3,44 @@
 
 @import "minima";
 
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-Regular.ttf" | relative_url }}") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-Bold.ttf" | relative_url }}") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-Italic.ttf" | relative_url }}") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("{{ "/assets/fonts/lora/Lora-BoldItalic.ttf" | relative_url }}") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+body {
+  font-family: "Lora", Georgia, serif;
+  line-height: 1.65;
+}
+
+
 .cv-date {
   color: #666;
   font-size: 0.875em;
