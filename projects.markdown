@@ -6,12 +6,13 @@ permalink: /projects/
 
 ### Technical
 
--   [**Veritrace**](https://github.com/noah-art3mis/veritrace) (_2026_) - Observable AI fact-checker based on latest scholarship. Decomposes a claim into atomic sub-claims, retrieves live primary sources, and renders the reasoning as a traversable evidence graph. Inspired by [Show Me the Work](https://doi.org/10.1145/3706598.3713277) and [HerO 2](https://github.com/ssu-humane/HerO).
+-   **Glasshouse** (_2026 – present_) – Modular fact-checking toolkit, in development, covering claim detection, claim selection, verified claim retrieval, evidence retrieval, verdict prediction, and justification production. Each stage keeps an inspectable record of its inputs and outputs. Builds on VeriTrace, an observable AI fact-checking prototype developed during a 24-hour hackathon.
+-   [**LexGPT**](https://lexgpt.com.br/) (_2026 – present_) – Legal research workbench built on corpora I collect and curate from Brazilian courts and legislative sources. Supports complex legal questions through source-linked answers and inspectable evidence, alongside collaborative document editing and shared research projects.
+-   [**News Quality**](https://github.com/noah-art3mis/news-quality-labeler) – Bluesky labeler that annotates shared links with news-source quality ratings from [Lin et al. (2023), *High level of correspondence across different news domain quality rating sets*](https://doi.org/10.1093/pnasnexus/pgad286). Co-author Jana Lasser was affiliated with Complexity Science Hub Vienna in the paper. The labels describe source quality, not the truth of individual articles.
 -   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
 -   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in DF, Brazil (in Portuguese). Jupyter notebook.
 -   [**Intersect**](https://github.com/noah-art3mis/intersect) (_2025_) - NLP-powered job board. Uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Streamlit app.
 <!-- -   [**Crucible**](https://github.com/noah-art3mis/crucible) (_2024_) - Lightweight AI prompt evaluation package. -->
--   [**LexGPT**](https://lexgpt.com.br/) (_2023 – 2024_) - AI services for lawyers. RAG app with flask backend and vanilla javascript frontend. Deprecated.
 <!-- -   [**Automaton**](https://github.com/noah-art3mis/automaton) (_2024_) - Automation tooling for @simulacro.psi. -->
 
 ### Qualitative
@@ -26,7 +27,7 @@ permalink: /projects/
 
 ### Creative
 
--   [**Prophetic Strategies**](https://prophetic.streamlit.app/) (_2024_) - Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Streamlit app.
+-   [**Prophetic Strategies**](https://prophetic-strategies-web.onrender.com/) (_2024 – present_) – Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Interactive web app.
 -   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot.
 -   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
@@ -49,8 +50,7 @@ _Stereotype detection in large language models using sparse autoencoders_
 
 More details in the [GitHub repository](https://github.com/noah-art3mis/portfolio-lis/)
 
--   [**Slopstopper**]() (WIP): Python library which detects and classifies AI slop.
--   [**Slop News**](https://t.me/slopnew): Telegram channel aggregating news about AI slop.
+-   [**Slop News**](https://t.me/slopnew): Telegram archive of things I find relevant to AI slop.
 -   [**Neurophysiological Effects of Architectural Styles in Virtual Reality**](https://github.com/noah-art3mis/portfolio-lis/blob/main/neuroarchitecture.pdf):
     Neuroarchitecture paper investigating "universal attraction to vitality" and aversion to brutalism using fake EEG and VR data.
 -   [**Is This True Interdisciplinarity? A Case Study of an Interdisciplinary Journal Paper**](https://github.com/noah-art3mis/portfolio-lis/blob/main/integration.pdf):
