@@ -26,10 +26,6 @@ Modular fact-checking toolkit, in development, covering claim detection, claim s
 
 Essays on data science, AI ethics and philosophy of science. Highlight: [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
 
-**Judex**
-
-[Python scraper](https://github.com/noah-art3mis/judex-mini) and data pipeline for Brazilian Supreme Court (STF) case data.
-
 **Prophetic Strategies**
 
 [Data/art project](https://prophetic-strategies-web.onrender.com/) about oracular philosophy and AI using RAG and fine-tuned LLMs. Explore the interactive oracle.
