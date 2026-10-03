@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Technical
 
--   [**Glasshouse**](https://github.com/noah-art3mis/glasshouse) (_2026 – present_) – Modular fact-checking toolkit, in development. Structures claim analysis, evidence retrieval, verdicts, and justifications as inspectable stages, with a record of how each result was produced. Builds on the earlier VeriTrace prototype.
+-   [**Glasshouse**](https://github.com/noah-art3mis/glasshouse) (_2026 – present_) – Modular fact-checking toolkit, in development. Structures claim analysis, evidence retrieval, verdicts, and justifications as inspectable stages, with a record of how each result was produced. Builds on VeriTrace, an observable AI fact-checking prototype.
 -   [**LexGPT**](https://lexgpt.com.br/) (_2026 – present_) – AI-assisted platform for Brazilian legal research and writing. Combines case-law and legislation retrieval with source-linked answers, collaborative document editing, and reusable research workflows.
 -   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
 -   [**Lablivre Analysis**](https://noah-art3mis.github.io/takehome-lablivre-analysis/) (_2025_) - Detailed analysis of federal investment in infrastructure projects in DF, Brazil (in Portuguese). Jupyter notebook.
