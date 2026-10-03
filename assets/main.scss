@@ -34,7 +34,34 @@ a:focus-visible {
   color: inherit;
 }
 
-#selected-research--projects,
-#experience {
-  margin-top: 2rem;
+.home h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+}
+
+.project-title {
+  margin-top: 1.75rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.0625em;
+}
+
+.cv-entry {
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.home h2 + .project-title,
+.home h2 + .cv-entry {
+  margin-top: 0;
+}
+
+.post-content h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+}
+
+.post-content > ul > li {
+  margin-bottom: 1rem;
 }
