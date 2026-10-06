@@ -10,7 +10,7 @@ permalink: /projects/
 -   [**LexGPT**](https://lexgpt.com.br/) (_2026 – present_) – Legal research workbench built on corpora I collect and curate from Brazilian courts and legislative sources. Supports complex legal questions through source-linked answers and inspectable evidence, alongside collaborative document editing and shared research projects.
 -   [**News Quality**](https://github.com/noah-art3mis/news-quality-labeler) – Bluesky labeler that annotates shared links with news-source quality ratings. Sourced from [Lin et al. (2023)](https://doi.org/10.1093/pnasnexus/pgad286).
 -   [**Judex**](https://github.com/noah-art3mis/judex-mini) (_2026_) - Scraper for Brazilian Supreme Court case information. Python library.
--   [**Obras DF**](https://simulacro.cv/obras-df/) (_2025_) - Analysis of planned federal investment in infrastructure projects in Brazil’s Federal District (in Portuguese). Interactive report and Jupyter notebook.
+-   [**Obras DF**](https://simulacro.cv/takehome-lablivre-analysis/) (_2025_) - Analysis of planned federal investment in infrastructure projects in Brazil’s Federal District (in Portuguese). Interactive report and Jupyter notebook.
 -   [**Intersect**](https://github.com/noah-art3mis/intersect) (_2025_) - NLP-powered job board. Uses NLP (embeddings, UMAP, HDBSCAN, reranking) to find more relevant roles. Streamlit app.
 <!-- -   [**Crucible**](https://github.com/noah-art3mis/crucible) (_2024_) - Lightweight AI prompt evaluation package. -->
 <!-- -   [**Automaton**](https://github.com/noah-art3mis/automaton) (_2024_) - Automation tooling for @simulacro.psi. -->
