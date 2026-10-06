@@ -51,3 +51,6 @@ defaults:
           type: 'projects'
       values:
           layout: 'project'
+
+exclude:
+    - tests

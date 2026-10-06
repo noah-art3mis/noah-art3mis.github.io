@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 NOTES.md
+__pycache__/
