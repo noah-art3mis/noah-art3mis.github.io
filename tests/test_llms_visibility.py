@@ -54,6 +54,9 @@ class HtmlTest(unittest.TestCase):
             with self.subTest(page=page):
                 self.assertEqual(read(page).count('<h1'), 1)
 
+    def test_home_h1_is_in_the_html_but_not_shown(self):
+        self.assertIn('<h1 class="visually-hidden" id="gustavo-costa">Gustavo Costa</h1>', read('index.html'))
+
     def test_canonical_url_is_the_real_domain(self):
         self.assertIn('<link rel="canonical" href="https://simulacro.cv/"', read('index.html'))
         self.assertNotIn('noah-art3mis.github.io', read('index.html'))
