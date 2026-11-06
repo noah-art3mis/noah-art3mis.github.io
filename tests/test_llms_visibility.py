@@ -40,6 +40,7 @@ class MarkdownRoutesTest(unittest.TestCase):
     def assert_clean(self, markdown):
         self.assertNotRegex(markdown, r'\{:', 'Kramdown attributes are for the HTML only')
         self.assertNotRegex(markdown, r'</?[a-z!][^>]*>', 'no leftover HTML or comments')
+        self.assertNotIn('-->', markdown, 'no tail of a multi-line comment')
         self.assertNotRegex(markdown, r'\n\s*\n\s*\n', 'no runs of blank lines')
         self.assertEqual(len(re.findall(r'^# ', markdown, re.M)), 1, 'one h1')
         levels = [len(hashes) for hashes in re.findall(r'^(#+) ', markdown, re.M)]
