@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /projects.md
+---
+# All Projects
+
+{% capture source %}{% include_relative projects.markdown %}{% endcapture -%}
+{%- assign body = source | split: 'permalink: /projects/' | last | remove_first: '---' -%}
+{% include clean-markdown.txt source=body %}

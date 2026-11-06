@@ -1,5 +1,7 @@
 ![](assets/images/fotor_2023-5-21_15_37_35.png){:style="max-width: 125px; width: 100%; display: block; margin: 0 auto"}
 
+# Gustavo Costa
+
 I am a computational social scientist with a background in psychotherapy and philosophy of science. I build computational systems for interpreting complex information and evaluating evidence, with applications in fields such as social science, law, and journalism.
 
 My research focuses on methods such as text classification to help people navigate information overload and make informed judgments grounded in evidence.

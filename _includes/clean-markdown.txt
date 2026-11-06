@@ -1,0 +1,16 @@
+{%- comment -%}
+Turns a page's Kramdown source into plain Markdown: drops attribute lines and
+styled images, unwraps date spans, and points links at the Markdown routes.
+{%- endcomment -%}
+{%- capture newline %}
+{% endcapture -%}
+{%- assign text = include.source | remove: '<span class="cv-date">' | remove: '</span>' | replace: '(/projects/)', '(/projects.md)' -%}
+{%- assign lines = text | split: newline -%}
+{%- assign previous_blank = true -%}
+{%- for line in lines -%}
+{%- assign trimmed = line | strip -%}
+{%- if trimmed contains '{:' -%}{%- continue -%}{%- endif -%}
+{%- if trimmed == '' and previous_blank -%}{%- continue -%}{%- endif -%}
+{%- if trimmed == '' -%}{%- assign previous_blank = true -%}{%- else -%}{%- assign previous_blank = false -%}{%- endif -%}
+{{ line }}{{ newline }}
+{%- endfor -%}

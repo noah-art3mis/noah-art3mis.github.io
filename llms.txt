@@ -1,0 +1,17 @@
+# Gustavo Costa
+
+> Computational social scientist with a background in psychotherapy and philosophy of science, building systems for interpreting complex information and evaluating evidence.
+
+## Pages
+
+- [Home](/index.md): Bio, selected research and projects, experience and education
+- [All projects](/projects.md): Technical work, publications, talks and awards
+
+## Documents
+
+- [CV](/assets/pdfs/cv_gustavo_costa.pdf): Full curriculum vitae (PDF)
+- [What is AI slop?](/assets/pdfs/ai_slop_paper.pdf): Master's dissertation on AI slop (PDF)
+
+## Optional
+
+- [Simulacro Tech](https://simulacro.tech/llms.txt): Gustavo's data and AI consultancy
