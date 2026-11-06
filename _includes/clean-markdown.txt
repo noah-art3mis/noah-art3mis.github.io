@@ -1,6 +1,6 @@
 {%- comment -%}
-Turns a page's Kramdown source into plain Markdown: drops attribute lines and
-styled images, unwraps date spans, and points links at the Markdown routes.
+Turns a page's Kramdown source into plain Markdown: drops attribute lines,
+comments and styled images, unwraps date spans, and points links at the Markdown routes.
 {%- endcomment -%}
 {%- capture newline %}
 {% endcapture -%}
@@ -9,7 +9,9 @@ styled images, unwraps date spans, and points links at the Markdown routes.
 {%- assign previous_blank = true -%}
 {%- for line in lines -%}
 {%- assign trimmed = line | strip -%}
-{%- if trimmed contains '{:' -%}{%- continue -%}{%- endif -%}
+{%- assign start = trimmed | slice: 0, 2 -%}
+{%- if start == '{:' or start == '<!' -%}{%- continue -%}{%- endif -%}
+{%- if start == '![' and trimmed contains '{:' -%}{%- continue -%}{%- endif -%}
 {%- if trimmed == '' and previous_blank -%}{%- continue -%}{%- endif -%}
 {%- if trimmed == '' -%}{%- assign previous_blank = true -%}{%- else -%}{%- assign previous_blank = false -%}{%- endif -%}
 {{ line }}{{ newline }}

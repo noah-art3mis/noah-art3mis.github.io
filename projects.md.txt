@@ -5,5 +5,5 @@ permalink: /projects.md
 # All Projects
 
 {% capture source %}{% include_relative projects.markdown %}{% endcapture -%}
-{%- assign body = source | split: 'permalink: /projects/' | last | remove_first: '---' -%}
+{%- assign body = source | split: '---' | shift: 2 | join: '---' -%}
 {% include clean-markdown.txt source=body %}

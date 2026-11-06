@@ -4,7 +4,7 @@ title: 'All Projects'
 permalink: /projects/
 ---
 
-### Technical
+## Technical
 
 -   **Glasshouse** (_2026 – present_) – Modular fact-checking toolkit, in development, covering claim detection, claim selection, verified claim retrieval, evidence retrieval, verdict prediction, and justification production. Each stage keeps an inspectable record of its inputs and outputs. Builds on [VeriTrace](https://github.com/noah-art3mis/veritrace), an observable AI fact-checking prototype developed during a 24-hour hackathon.
 -   [**LexGPT**](https://lexgpt.com.br/) (_2026 – present_) – Legal research workbench built on corpora I collect and curate from Brazilian courts and legislative sources. Supports complex legal questions through source-linked answers and inspectable evidence, alongside collaborative document editing and shared research projects.
@@ -15,7 +15,7 @@ permalink: /projects/
 <!-- -   [**Crucible**](https://github.com/noah-art3mis/crucible) (_2024_) - Lightweight AI prompt evaluation package. -->
 <!-- -   [**Automaton**](https://github.com/noah-art3mis/automaton) (_2024_) - Automation tooling for @simulacro.psi. -->
 
-### Qualitative
+## Qualitative
 
 -   [**simulacro.co.uk**](https://simulacro.co.uk) (_2024 – present_) - Essays on knowledge, meaning, and technology.
     -   [AI for humanists](https://simulacro.co.uk/artificial-intelligence-ai-for-humanists/)
@@ -25,13 +25,13 @@ permalink: /projects/
     -   [Nature will not decide for us: psychoanalysis without foundations](https://gustavocosta.psc.br/a-natureza-nao-decidira-por-nos-psicanalise-sem-fundamentos/)
 -   [**@simulacro.psi**](https://www.instagram.com/simulacro.psi/) (_2021 – 2024_) - Instagram page that posts a philosophy quote every day (1.5k followers).
 
-### Creative
+## Creative
 
 -   [**Prophetic Strategies**](https://prophetic-strategies-web.onrender.com/) (_2024 – present_) – Data/art project about oracular philosophy and AI using RAG and fine-tuned LLMs. Interactive web app.
 -   [**Learning to Love the Labyrinth**](https://noah-art3mis.itch.io/learning-to-love-the-labyrinth) (_2023_) - Art-house video game. Made in Godot. Selected for [Indiepocalypse #44](https://pizzapranks.itch.io/indiepocalypse-44), an independent game anthology.
 -   [**WEAV**](https://github.com/noah-art3mis/weav) (_2021_) - Elementary cellular automata visualiser. Web app made in Unity.
 
-### Publications & Talks
+## Publications & Talks
 
 **The midnight sun: Popper and rationality without foundations** (2024)  
 _Psychoanalysis and Science Research Group at APOLa SP_  
@@ -41,12 +41,12 @@ Two lectures on philosophy of science
 _Thinking Out Loud project at the London Interdisciplinary School_  
 Lecture on critical theory and philosophy of nature
 
-### Awards
+## Awards
 
 **Hackathon Winner:** AI safety hackathon (Holistic AI & UCL AI Society)  
 _Stereotype detection in large language models using sparse autoencoders_
 
-### Other
+## Other
 
 -   [**Slop News**](https://t.me/slopnew): Telegram channel of things I find relevant to AI slop.
 -   [**The Official Tumblr Metaphysics Repository**](https://www.tumblr.com/noah-art3mis):

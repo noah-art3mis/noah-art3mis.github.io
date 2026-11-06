@@ -29,9 +29,7 @@ class MarkdownRoutesTest(unittest.TestCase):
 
     def test_projects_is_clean_markdown(self):
         markdown = read('projects.md')
-        self.assertTrue(markdown.startswith('# All Projects\n\n'))
-        self.assertIn('### Technical', markdown)
-        self.assertNotIn('permalink:', markdown)
+        self.assertTrue(markdown.startswith('# All Projects\n\n## Technical\n'))
         self.assert_clean(markdown)
 
     def test_pages_advertise_their_markdown(self):
@@ -41,9 +39,12 @@ class MarkdownRoutesTest(unittest.TestCase):
 
     def assert_clean(self, markdown):
         self.assertNotRegex(markdown, r'\{:', 'Kramdown attributes are for the HTML only')
-        self.assertNotRegex(markdown, r'</?[a-z][^>]*>', 'no leftover HTML')
+        self.assertNotRegex(markdown, r'</?[a-z!][^>]*>', 'no leftover HTML or comments')
         self.assertNotRegex(markdown, r'\n\s*\n\s*\n', 'no runs of blank lines')
         self.assertEqual(len(re.findall(r'^# ', markdown, re.M)), 1, 'one h1')
+        levels = [len(hashes) for hashes in re.findall(r'^(#+) ', markdown, re.M)]
+        for previous, level in zip(levels, levels[1:]):
+            self.assertLessEqual(level, previous + 1, 'no skipped heading level')
 
 
 class HtmlTest(unittest.TestCase):
